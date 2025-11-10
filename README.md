@@ -121,8 +121,8 @@ FIONA integrates **machine learning, deep learning, and sensor-based data fusion
 
 | Name                   | Role                                       |
 | ---------------------- | ------------------------------------------ |
-| **Samiul Sazid Sammo** | AI & IoT Integration, Software Development |
-| **Al Shahria Hasan Shawon**    | Hardware Design & Implementation           |
+| **Samiul Sazid Sammo** | Hardware Design & IoT Integration |
+| **Al Shahria Hasan Shawon**    | Software Development        |
 
 ---
 
