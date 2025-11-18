@@ -5,8 +5,8 @@
 FIONA is an **AI-driven surveillance and rescue robot** designed to assist in hazardous environments such as fire zones, industrial accidents, or natural disasters. It intelligently detects injured humans, identifies fire or dangerous gases, evaluates danger levels, and shares GPS coordinates for efficient and safe rescue operations.
 
 ---
-![WhatsApp Image 2025-10-16 at 16 09 55_9c8ecabd](https://github.com/user-attachments/assets/d422ad63-8e18-4808-a241-8b4d15024168 | width = 150)
-![WhatsApp Image 2025-10-16 at 16 10 37_38737b9d](https://github.com/user-attachments/assets/f522305a-73c1-4f00-9e88-5b5c935dd1c8 | width = 150)
+![WhatsApp Image 2025-10-16 at 16 09 55_9c8ecabd](https://github.com/user-attachments/assets/d422ad63-8e18-4808-a241-8b4d15024168 )
+![WhatsApp Image 2025-10-16 at 16 10 37_38737b9d](https://github.com/user-attachments/assets/f522305a-73c1-4f00-9e88-5b5c935dd1c8 )
 
 
 ## 🧩 Table of Contents
